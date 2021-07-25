@@ -1,0 +1,4 @@
+<!-- database connection -->
+<?php
+
+?>
