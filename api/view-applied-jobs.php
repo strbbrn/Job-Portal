@@ -45,20 +45,5 @@ $conn = connect();
 		
 		mysqli_close($conn);
 	}
-	// if(isset($_POST['type'])){
-    //     if($_POST['type']==2){
-	// 	$email=$_POST['username'];
-	// 	$password=$_POST['password'];
-	// 	$check=mysqli_query($conn,"select * from employees where email='$email' and password='$password'");
-	// 	if (mysqli_num_rows($check)>0)
-	// 	{
-	// 		$_SESSION['username']=$email;
-	// 		echo json_encode(array("statusCode"=>200));
-	// 	}
-	// 	else{
-	// 		echo json_encode(array("statusCode"=>201));
-	// 	}
-	// 	mysqli_close($conn);
-    // }
-	// }
+	
 ?>
