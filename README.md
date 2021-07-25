@@ -2,7 +2,7 @@
 Simple job portal with PHP REST API and Jquery build with awesome bootstrap css.
 For demo login details check out the login.txt file
 ## DEMO
-[http://13.127.106.28/](http://13.127.106.28/)
+[http://13.127.106.28/](http://13.127.106.28/(AWS))
 ### Installation
 
 **Either download the project or clone the project.**<br/>
