@@ -3,7 +3,7 @@
 header('Content-type: application/json');
 
 include('../resources/fun.php');
-//fetch GET data with variable job_id
+
 $job_id = $_POST['job_id'];
 //check if job_id is empty
 if(empty($job_id)){
