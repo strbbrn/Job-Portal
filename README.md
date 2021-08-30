@@ -1,8 +1,11 @@
 # Job-Portal
 Simple job portal with PHP REST API and Jquery build with awesome bootstrap css.
 For demo login details check out the login.txt file
-## DEMO
-REMOVED
+## DEMO AWS Deployed
+[HomePage](http://13.127.106.28)
+[Job Posting](http://13.127.106.28/employer/index.php)
+[View Applicants](http://13.127.106.28/employer/applicants.php)
+[View Applied Jobs](http://13.127.106.28/applied-job.php)
 ### Installation
 
 **Either download the project or clone the project.**<br/>
